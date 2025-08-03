@@ -1,0 +1,3 @@
+cryptography
+PyCryptodome
+streamlit
